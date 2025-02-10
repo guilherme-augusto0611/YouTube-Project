@@ -32,13 +32,9 @@ This project was developed as part of the _HTML & CSS Full Course - Beginner to 
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/youtube-clone.git
+    git clone https://github.com/guilherme-augusto0611/YouTube-Project.git
     ```
 2. Open the `index.html` file in a web browser.
-
-## 📌 Live Demo
-
-_(If hosted, provide the link to the live demo here.)_
 
 ## 📜 License
 
