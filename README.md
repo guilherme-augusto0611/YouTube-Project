@@ -24,6 +24,10 @@ This project was developed as part of the _HTML & CSS Full Course - Beginner to 
 <img src="https://github.com/user-attachments/assets/f15b4d61-2d36-4663-b911-43542373e963" width="700px" />
 </div>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/85301a88-a28b-4783-8be2-913359334e8b" width="700px" />
+</div>
+
 ## 🚀 Installation
 
 1. Clone this repository:
